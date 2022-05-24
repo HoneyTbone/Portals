@@ -1,0 +1,18 @@
+{
+    "name": "RenameComponents.Editor",
+    "rootNamespace": "ComponentNames",
+    "references": [
+        "GUID:dd59ccde2a8bfc34fb17f834ba257ab2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
